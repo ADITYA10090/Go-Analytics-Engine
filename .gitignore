@@ -1,0 +1,8 @@
+# Binaries
+/analytics
+/loadgen
+*.exe
+*.test
+*.out
+
+# Go build / test caches are outside the repo; nothing else to ignore.
